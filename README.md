@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)](https://coderkartikeya.io)
 <h1 align="center">Hi 👋, I'm Kartikeya Vats</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img src="https://miro.medium.com/v2/resize:fit:1024/1*YNtQH7JMtpfTU04O51To4Q.png" alt="image"/>
