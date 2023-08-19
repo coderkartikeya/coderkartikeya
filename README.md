@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Kartikeya Vats</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*YNtQH7JMtpfTU04O51To4Q.png" alt="image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkartikeya&label=Profile%20views&color=0e75b6&style=flat" alt="coderkartikeya" /> </p>
 
